@@ -61,4 +61,4 @@ Every repository runs its demo with a single command, offline, with no
 credentials. That's deliberate — if a reviewer has to configure something to see
 whether the code works, they won't.
 
-**Get in touch:** <!-- add your email here, or delete this line -->
+**Get in touch:** marjanchavdarov@gmail.com
